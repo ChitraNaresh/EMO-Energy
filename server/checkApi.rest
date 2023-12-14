@@ -1,0 +1,10 @@
+
+POST http://localhost:5002/signup
+Content-Type: application/json
+
+{"userData":{
+    "firstname":"Nani1",
+    "secondname":"Chitra1",
+    "gmail":"AAA1@gmail.com",
+    "password":"12345"
+}}
